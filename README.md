@@ -6,6 +6,7 @@ https://21r21a0548.wixsite.com/custom-nuts
 
 WIXSTUDIO
 
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/d46351b8-cf2b-4cba-ac62-7fd3fb783fe1" />
 
 Custom Nuts is an innovative e-commerce platform designed and developed using Wix Studio, tailored to provide a seamless and unique gifting experience. The website specializes in offering personalized gift boxes filled with a curated selection of traditional and flavored nuts, such as cashews, raisins, and almonds. With an emphasis on customization and creativity, "Custom Nuts" caters to individuals looking for thoughtful gifts that resonate with their loved ones on various special occasions.
 
